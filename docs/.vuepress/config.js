@@ -4,7 +4,7 @@ module.exports = {
 	description: 'a basic vuejs based tooltip',
 	themeConfig: {
 		repo: '/vue-basic-tooltip',
-		docsDir: 'docs',
+		docsDir: '/docs/',
 		search: false
 	}
 }
