@@ -1,5 +1,5 @@
 module.exports = {
-	base: '/vue-basic-tooltip/',
+	base: '/',
 	title: 'Vue Basic Tooltip',
 	description: 'a basic vuejs based tooltip',
 	themeConfig: {
