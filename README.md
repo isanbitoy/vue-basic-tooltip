@@ -3,7 +3,7 @@ a basic vuejs based tooltip
 
 ## Install
 ```
-npm install --save-dev bue-basic-tooltip
+npm install --save-dev vue-basic-tooltip
 ```
 
 ## Usage
